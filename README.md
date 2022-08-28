@@ -2,19 +2,14 @@
 
 A cult of the Lamb mod that make you whole cult immortal !
 
-**This is currently a WIP, the mod is not finished and readdy to be used !**
+This mod doesn't affect the save, just remove the mod to disable immortality.
 
 ![mode preview](https://i.imgur.com/ZFzBV77.png)
 
 # Features
 
-* All the followers are given the trait immortal
-
-# Known bugs
-
-* The new followers doesn't get the immortal trait
-* When saved, the followers lose thier immortal traits
-* 'The One Who Wait' lose his immortal trait when the mod is removed.
+* All the followers are given the trait 'immortal'
+* Saves are unafected by the mod (immortality is not saved)
 
 # Installation
 
